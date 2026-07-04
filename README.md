@@ -18,4 +18,4 @@ I am looking for opportunities to assist on:
 - Troubleshooting build/deployment pipelines.
 - Designing robust API layers.
 
-📫 Reach me at: [daniyalaraien@gmail.com](mailto:daniyalaraien@gmail.com)
+📫 Reach me at: [d.ahmed.araien@gmail.com](mailto:d.ahmed.araien@gmail.com)
