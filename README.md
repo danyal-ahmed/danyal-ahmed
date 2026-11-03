@@ -1,21 +1,29 @@
 # 👋 Hi, I’m Danyal Ahmed
 
-Senior Full-Stack Developer with 5+ years of experience building scalable web applications. I specialize in the Laravel ecosystem, modern JavaScript frameworks, and optimizing development workflows under technical constraints.
+### Senior Full-Stack Developer | AI + Laravel + Tooling
 
-### 🛠 Tech Stack
-- **Backend:** PHP 8.2 and all its legacy versions, Laravel 12, Node.js, Nest.js, RESTful API architecture.
-- **Frontend:** TypeScript, React, Angular.
-- **Infrastructure:** GitHub Actions, Custom CI/CD pipelines, Local dev environment optimization (XAMPP/Windows).
-- **AI Integration:** Leveraging AI tools to optimize refactoring and documentation.
 
-### 🎯 What I’m Working On
-- Deepening my integration of AI agents into the development lifecycle.
-- Modernizing backend architecture for better performance and maintainability.
+5+ years building scalable web apps and developer tools. I ship fast, debug hard, and optimize everything.
 
-### 🤝 Let's Collaborate
-I am looking for opportunities to assist on:
-- Refactoring complex or legacy codebases.
-- Troubleshooting build/deployment pipelines.
-- Designing robust API layers.
 
-📫 Reach me at: [d.ahmed.araien@gmail.com](mailto:d.ahmed.araien@gmail.com)
+🛠 **Tech Stack**
+**Backend:** PHP 8.2+, Laravel 12, Node.js, Nest.js, RESTful APIs
+**Frontend:** TypeScript, React, Angular, Vue, JavaScript (Es-6 | Es-7 ... | Es-11)  
+**AI/LLM:** OpenAI, Claude, Gemini, LangChain, Prompt Engineering, AI Agents, RAG
+**Tooling:** GitHub Actions, Custom CI/CD, Docker, Redis, MongoDB, PostgreSQL
+**Infra:** Local dev optimization, XAMPP/Windows, Performance tuning
+
+
+🤖 **What I’m Working On**
+Building AI agents to automate testing, code review, and documentation
+Integrating LLMs into product workflows for 10k+ queries/day
+Modernizing backend architecture with caching, queues, and observability
+Creating internal tooling to speed up dev workflows
+🎯 **Let’s Collaborate On**
+Refactoring legacy Laravel/PHP codebases
+Building AI-powered features and tooling
+Developing MEAN | MERN applications
+Troubleshooting CI/CD and deployment pipelines  
+Designing robust, scalable API layers
+
+📫 **Reach me:** d.ahmed.araien@gmail.com
