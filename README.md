@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Danyal Ahmed
 
-Senior Full-Stack Developer with 8 years of experience building scalable web applications. I specialize in the Laravel ecosystem, modern JavaScript frameworks, and optimizing development workflows under technical constraints.
+Senior Full-Stack Developer with 5+ years of experience building scalable web applications. I specialize in the Laravel ecosystem, modern JavaScript frameworks, and optimizing development workflows under technical constraints.
 
 ### 🛠 Tech Stack
 - **Backend:** PHP 8.2 and all its legacy versions, Laravel 12, Node.js, Nest.js, RESTful API architecture.
